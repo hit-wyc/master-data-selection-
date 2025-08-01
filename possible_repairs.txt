@@ -1,0 +1,1350 @@
+Error at row 94, col 0:
+  Candidate: [np.float64(5.6) np.float64(2.7) np.float64(4.2) np.float64(1.3)
+ 'Iris-versicolor' np.int64(94)], Confidence: 0.4
+  Candidate: [nan 2.735341775954541 4.1482521525103255 1.3034739312095691
+ 'Iris-versicolor' np.int64(94)], Confidence: 0.05
+  Candidate: [nan 2.807565496779238 4.098263157933325 1.3443728409557643
+ 'Iris-versicolor' np.int64(94)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.7) np.float64(4.2) np.float64(1.3)
+ 'Iris-versicolor' np.int64(94)], Confidence: 0.5
+
+Error at row 44, col 3:
+  Candidate: [np.float64(5.1) np.float64(3.8) np.float64(1.9) np.float64(0.4)
+ 'Iris-setosa' np.int64(44)], Confidence: 0.4
+  Candidate: [5.160361840784864 3.804337517310784 1.8768560478944738 nan 'Iris-setosa'
+ np.int64(44)], Confidence: 0.05
+  Candidate: [5.219173161509303 3.925566469795722 1.921672471540528 nan 'Iris-setosa'
+ np.int64(44)], Confidence: 0.05
+  Candidate: [np.float64(5.1) np.float64(3.8) np.float64(1.9) np.float64(nan)
+ 'Iris-setosa' np.int64(44)], Confidence: 0.5
+
+Error at row 95, col 3:
+  Candidate: [np.float64(5.7) np.float64(3.0) np.float64(4.2) np.float64(1.2)
+ 'Iris-versicolor' np.int64(95)], Confidence: 0.4
+  Candidate: [5.763703639689072 3.008173781137977 4.217727319887829 nan
+ 'Iris-versicolor' np.int64(95)], Confidence: 0.05
+  Candidate: [5.715230135365626 2.927660774655362 4.422814277524747 nan
+ 'Iris-versicolor' np.int64(95)], Confidence: 0.05
+  Candidate: [np.float64(5.7) np.float64(3.0) np.float64(4.2) np.float64(nan)
+ 'Iris-versicolor' np.int64(95)], Confidence: 0.5
+
+Error at row 48, col 3:
+  Candidate: [np.float64(5.3) np.float64(3.7) np.float64(1.5) np.float64(0.2)
+ 'Iris-setosa' np.int64(48)], Confidence: 0.4
+  Candidate: [5.3437018936325735 3.854490367764563 1.5218854730198348 nan 'Iris-setosa'
+ np.int64(48)], Confidence: 0.05
+  Candidate: [5.2952734024592045 3.5998137592028283 1.6717529356353622 nan
+ 'Iris-setosa' np.int64(48)], Confidence: 0.05
+  Candidate: [np.float64(5.3) np.float64(3.7) np.float64(1.5) np.float64(nan)
+ 'Iris-setosa' np.int64(48)], Confidence: 0.5
+
+Error at row 20, col 1:
+  Candidate: [np.float64(5.4) np.float64(3.4) np.float64(1.7) np.float64(0.2)
+ 'Iris-setosa' np.int64(20)], Confidence: 0.4
+  Candidate: [5.452445771400596 nan 1.6479331074826031 0.24771882817684354
+ 'Iris-setosa' np.int64(20)], Confidence: 0.05
+  Candidate: [5.480252283736533 nan 1.727209938817851 0.026716381694116748
+ 'Iris-setosa' np.int64(20)], Confidence: 0.05
+  Candidate: [np.float64(5.4) np.float64(nan) np.float64(1.7) np.float64(0.2)
+ 'Iris-setosa' np.int64(20)], Confidence: 0.5
+
+Error at row 66, col 1:
+  Candidate: [np.float64(5.6) np.float64(3.0) np.float64(4.5) np.float64(1.5)
+ 'Iris-versicolor' np.int64(66)], Confidence: 0.4
+  Candidate: [5.491363459692503 nan 4.5048434746196975 1.4989642494811675
+ 'Iris-versicolor' np.int64(66)], Confidence: 0.05
+  Candidate: [5.64441513272216 nan 4.500846455538068 1.5842232640335103
+ 'Iris-versicolor' np.int64(66)], Confidence: 0.05
+  Candidate: [np.float64(5.6) np.float64(nan) np.float64(4.5) np.float64(1.5)
+ 'Iris-versicolor' np.int64(66)], Confidence: 0.5
+
+Error at row 111, col 3:
+  Candidate: [np.float64(6.4) np.float64(2.7) np.float64(5.3) np.float64(1.9)
+ 'Iris-virginica' np.int64(111)], Confidence: 0.4
+  Candidate: [6.403992341483026 2.7294656950615175 5.265602366999353 nan
+ 'Iris-virginica' np.int64(111)], Confidence: 0.05
+  Candidate: [6.382016381461996 2.6885487729833706 5.37397275824537 nan
+ 'Iris-virginica' np.int64(111)], Confidence: 0.05
+  Candidate: [np.float64(6.4) np.float64(2.7) np.float64(5.3) np.float64(nan)
+ 'Iris-virginica' np.int64(111)], Confidence: 0.5
+
+Error at row 28, col 1:
+  Candidate: [np.float64(5.2) np.float64(3.4) np.float64(1.4) np.float64(0.2)
+ 'Iris-setosa' np.int64(28)], Confidence: 0.4
+  Candidate: [5.169412067968227 nan 1.3750477449860572 0.18809702398395955
+ 'Iris-setosa' np.int64(28)], Confidence: 0.05
+  Candidate: [5.098702862962588 nan 1.5533438275077396 0.252869734370182 'Iris-setosa'
+ np.int64(28)], Confidence: 0.05
+  Candidate: [np.float64(5.2) np.float64(nan) np.float64(1.4) np.float64(0.2)
+ 'Iris-setosa' np.int64(28)], Confidence: 0.5
+
+Error at row 53, col 0:
+  Candidate: [np.float64(5.5) np.float64(2.3) np.float64(4.0) np.float64(1.3)
+ 'Iris-versicolor' np.int64(53)], Confidence: 0.4
+  Candidate: [nan 2.325009421561236 4.037533049105412 1.3135637770748527
+ 'Iris-versicolor' np.int64(53)], Confidence: 0.05
+  Candidate: [nan 2.304432690516012 4.10835784900332 1.2322649352303143
+ 'Iris-versicolor' np.int64(53)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.3) np.float64(4.0) np.float64(1.3)
+ 'Iris-versicolor' np.int64(53)], Confidence: 0.5
+
+Error at row 124, col 0:
+  Candidate: [np.float64(6.7) np.float64(3.3) np.float64(5.7) np.float64(2.1)
+ 'Iris-virginica' np.int64(124)], Confidence: 0.4
+  Candidate: [nan 3.227529966909566 5.770726300123343 2.0757016572752285
+ 'Iris-virginica' np.int64(124)], Confidence: 0.05
+  Candidate: [nan 3.311143402381274 5.627625045359119 2.2730835835118017
+ 'Iris-virginica' np.int64(124)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.3) np.float64(5.7) np.float64(2.1)
+ 'Iris-virginica' np.int64(124)], Confidence: 0.5
+
+Error at row 81, col 2:
+  Candidate: [np.float64(5.5) np.float64(2.4) np.float64(3.7) np.float64(1.0)
+ 'Iris-versicolor' np.int64(81)], Confidence: 0.4
+  Candidate: [5.530962672400767 2.3951425684653795 nan 0.999708276103205
+ 'Iris-versicolor' np.int64(81)], Confidence: 0.05
+  Candidate: [5.402673788476509 2.5568565000879873 nan 0.951132984241342
+ 'Iris-versicolor' np.int64(81)], Confidence: 0.05
+  Candidate: [np.float64(5.5) np.float64(2.4) np.float64(nan) np.float64(1.0)
+ 'Iris-versicolor' np.int64(81)], Confidence: 0.5
+
+Error at row 89, col 0:
+  Candidate: [np.float64(5.5) np.float64(2.5) np.float64(4.0) np.float64(1.3)
+ 'Iris-versicolor' np.int64(89)], Confidence: 0.4
+  Candidate: [nan 2.4072836432395213 4.007440094806649 1.329515666263496
+ 'Iris-versicolor' np.int64(89)], Confidence: 0.05
+  Candidate: [nan 2.3135295585331592 4.111502721580093 1.1264265280766705
+ 'Iris-versicolor' np.int64(89)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.5) np.float64(4.0) np.float64(1.3)
+ 'Iris-versicolor' np.int64(89)], Confidence: 0.5
+
+Error at row 121, col 0:
+  Candidate: [np.float64(5.6) np.float64(2.8) np.float64(4.9) np.float64(2.0)
+ 'Iris-virginica' np.int64(121)], Confidence: 0.4
+  Candidate: [nan 2.725278443460694 4.8039581456128175 2.0482131207985255
+ 'Iris-virginica' np.int64(121)], Confidence: 0.05
+  Candidate: [nan 2.8326841016032644 4.822051495226141 2.110602752448854
+ 'Iris-virginica' np.int64(121)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.8) np.float64(4.9) np.float64(2.0)
+ 'Iris-virginica' np.int64(121)], Confidence: 0.5
+
+Error at row 131, col 2:
+  Candidate: [np.float64(7.9) np.float64(3.8) np.float64(6.4) np.float64(2.0)
+ 'Iris-virginica' np.int64(131)], Confidence: 0.4
+  Candidate: [7.953131310111437 3.802174638837954 nan 1.9739708250721744
+ 'Iris-virginica' np.int64(131)], Confidence: 0.05
+  Candidate: [7.737018484641582 3.9761738740978996 nan 1.951063826859941
+ 'Iris-virginica' np.int64(131)], Confidence: 0.05
+  Candidate: [np.float64(7.9) np.float64(3.8) np.float64(nan) np.float64(2.0)
+ 'Iris-virginica' np.int64(131)], Confidence: 0.5
+
+Error at row 43, col 2:
+  Candidate: [np.float64(5.0) np.float64(3.5) np.float64(1.6) np.float64(0.6)
+ 'Iris-setosa' np.int64(43)], Confidence: 0.4
+  Candidate: [4.953530940841918 3.5283568416111843 nan 0.6145495241884814 'Iris-setosa'
+ np.int64(43)], Confidence: 0.05
+  Candidate: [5.1043989279784 3.5456771324483407 nan 0.6219265632984908 'Iris-setosa'
+ np.int64(43)], Confidence: 0.05
+  Candidate: [np.float64(5.0) np.float64(3.5) np.float64(nan) np.float64(0.6)
+ 'Iris-setosa' np.int64(43)], Confidence: 0.5
+
+Error at row 17, col 3:
+  Candidate: [np.float64(5.1) np.float64(3.5) np.float64(1.4) np.float64(0.3)
+ 'Iris-setosa' np.int64(17)], Confidence: 0.4
+  Candidate: [5.094710338308831 3.5926112698626778 1.4686161924891092 nan 'Iris-setosa'
+ np.int64(17)], Confidence: 0.05
+  Candidate: [5.0121327349950615 3.457980450371617 1.329073788210738 nan 'Iris-setosa'
+ np.int64(17)], Confidence: 0.05
+  Candidate: [np.float64(5.1) np.float64(3.5) np.float64(1.4) np.float64(nan)
+ 'Iris-setosa' np.int64(17)], Confidence: 0.5
+
+Error at row 39, col 0:
+  Candidate: [np.float64(5.1) np.float64(3.4) np.float64(1.5) np.float64(0.2)
+ 'Iris-setosa' np.int64(39)], Confidence: 0.4
+  Candidate: [nan 3.374679633565481 1.566990623658839 0.2730993573424634 'Iris-setosa'
+ np.int64(39)], Confidence: 0.05
+  Candidate: [nan 3.4511104679492375 1.5927606179337368 0.05690959162724871
+ 'Iris-setosa' np.int64(39)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.4) np.float64(1.5) np.float64(0.2)
+ 'Iris-setosa' np.int64(39)], Confidence: 0.5
+
+Error at row 3, col 0:
+  Candidate: [np.float64(4.6) np.float64(3.1) np.float64(1.5) np.float64(0.2)
+ 'Iris-setosa' np.int64(3)], Confidence: 0.4
+  Candidate: [nan 3.0562917476330584 1.562656175441186 0.2390044001409687 'Iris-setosa'
+ np.int64(3)], Confidence: 0.05
+  Candidate: [nan 3.0336414951513264 1.5366858619070887 0.25401504612355585
+ 'Iris-setosa' np.int64(3)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.1) np.float64(1.5) np.float64(0.2)
+ 'Iris-setosa' np.int64(3)], Confidence: 0.5
+
+Error at row 116, col 2:
+  Candidate: [np.float64(6.5) np.float64(3.0) np.float64(5.5) np.float64(1.8)
+ 'Iris-virginica' np.int64(116)], Confidence: 0.4
+  Candidate: [6.566216380229005 2.918896536364192 nan 1.7573403581973812
+ 'Iris-virginica' np.int64(116)], Confidence: 0.05
+  Candidate: [6.4149492332411375 2.8449554395141727 nan 1.5454911776146663
+ 'Iris-virginica' np.int64(116)], Confidence: 0.05
+  Candidate: [np.float64(6.5) np.float64(3.0) np.float64(nan) np.float64(1.8)
+ 'Iris-virginica' np.int64(116)], Confidence: 0.5
+
+Error at row 4, col 2:
+  Candidate: [np.float64(5.0) np.float64(3.6) np.float64(1.4) np.float64(0.2)
+ 'Iris-setosa' np.int64(4)], Confidence: 0.4
+  Candidate: [4.958758744323865 3.6242607990643756 nan 0.10097881558984226
+ 'Iris-setosa' np.int64(4)], Confidence: 0.05
+  Candidate: [4.989869820493147 3.5314589925345157 nan 0.2153463466305087 'Iris-setosa'
+ np.int64(4)], Confidence: 0.05
+  Candidate: [np.float64(5.0) np.float64(3.6) np.float64(nan) np.float64(0.2)
+ 'Iris-setosa' np.int64(4)], Confidence: 0.5
+
+Error at row 132, col 1:
+  Candidate: [np.float64(6.4) np.float64(2.8) np.float64(5.6) np.float64(2.2)
+ 'Iris-virginica' np.int64(132)], Confidence: 0.4
+  Candidate: [6.3765291624283265 nan 5.606955092790027 2.2170383657713963
+ 'Iris-virginica' np.int64(132)], Confidence: 0.05
+  Candidate: [6.324400454011541 nan 5.682351692891032 1.9935662934776857
+ 'Iris-virginica' np.int64(132)], Confidence: 0.05
+  Candidate: [np.float64(6.4) np.float64(nan) np.float64(5.6) np.float64(2.2)
+ 'Iris-virginica' np.int64(132)], Confidence: 0.5
+
+Error at row 54, col 0:
+  Candidate: [np.float64(6.5) np.float64(2.8) np.float64(4.6) np.float64(1.5)
+ 'Iris-versicolor' np.int64(54)], Confidence: 0.4
+  Candidate: [nan 2.8209419729449943 4.549076814886115 1.4626039392615373
+ 'Iris-versicolor' np.int64(54)], Confidence: 0.05
+  Candidate: [nan 2.8137889105614584 4.581131384951638 1.4756027981116309
+ 'Iris-versicolor' np.int64(54)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.8) np.float64(4.6) np.float64(1.5)
+ 'Iris-versicolor' np.int64(54)], Confidence: 0.5
+
+Error at row 68, col 0:
+  Candidate: [np.float64(6.2) np.float64(2.2) np.float64(4.5) np.float64(1.5)
+ 'Iris-versicolor' np.int64(68)], Confidence: 0.4
+  Candidate: [nan 2.2098865668136862 4.4451064181154285 1.4819526658138673
+ 'Iris-versicolor' np.int64(68)], Confidence: 0.05
+  Candidate: [nan 2.1063627935834717 4.376809495180867 1.4104022700891528
+ 'Iris-versicolor' np.int64(68)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.2) np.float64(4.5) np.float64(1.5)
+ 'Iris-versicolor' np.int64(68)], Confidence: 0.5
+
+Error at row 115, col 0:
+  Candidate: [np.float64(6.4) np.float64(3.2) np.float64(5.3) np.float64(2.3)
+ 'Iris-virginica' np.int64(115)], Confidence: 0.4
+  Candidate: [nan 3.1520802372244794 5.251626616721396 2.2792467083278516
+ 'Iris-virginica' np.int64(115)], Confidence: 0.05
+  Candidate: [nan 3.40814434921364 5.128539116196572 2.200532264471192 'Iris-virginica'
+ np.int64(115)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.2) np.float64(5.3) np.float64(2.3)
+ 'Iris-virginica' np.int64(115)], Confidence: 0.5
+
+Error at row 8, col 0:
+  Candidate: [np.float64(4.4) np.float64(2.9) np.float64(1.4) np.float64(0.2)
+ 'Iris-setosa' np.int64(8)], Confidence: 0.4
+  Candidate: [nan 2.8834294651932613 1.458483101072243 0.17130437442268842
+ 'Iris-setosa' np.int64(8)], Confidence: 0.05
+  Candidate: [nan 2.7138096158826808 1.3469574501671813 0.24778083820268376
+ 'Iris-setosa' np.int64(8)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.9) np.float64(1.4) np.float64(0.2)
+ 'Iris-setosa' np.int64(8)], Confidence: 0.5
+
+Error at row 64, col 3:
+  Candidate: [np.float64(5.6) np.float64(2.9) np.float64(3.6) np.float64(1.3)
+ 'Iris-versicolor' np.int64(64)], Confidence: 0.4
+  Candidate: [5.527100523556825 2.9971325827586517 3.663110613056265 nan
+ 'Iris-versicolor' np.int64(64)], Confidence: 0.05
+  Candidate: [5.475880989763264 2.724067711841201 3.691575341707843 nan
+ 'Iris-versicolor' np.int64(64)], Confidence: 0.05
+  Candidate: [np.float64(5.6) np.float64(2.9) np.float64(3.6) np.float64(nan)
+ 'Iris-versicolor' np.int64(64)], Confidence: 0.5
+
+Error at row 104, col 1:
+  Candidate: [np.float64(6.5) np.float64(3.0) np.float64(5.8) np.float64(2.2)
+ 'Iris-virginica' np.int64(104)], Confidence: 0.4
+  Candidate: [6.559307607392052 nan 5.731451514125257 2.14518583175375 'Iris-virginica'
+ np.int64(104)], Confidence: 0.05
+  Candidate: [6.500234149429552 nan 5.808909241834385 2.1891763224020955
+ 'Iris-virginica' np.int64(104)], Confidence: 0.05
+  Candidate: [np.float64(6.5) np.float64(nan) np.float64(5.8) np.float64(2.2)
+ 'Iris-virginica' np.int64(104)], Confidence: 0.5
+
+Error at row 42, col 3:
+  Candidate: [np.float64(4.4) np.float64(3.2) np.float64(1.3) np.float64(0.2)
+ 'Iris-setosa' np.int64(42)], Confidence: 0.4
+  Candidate: [4.421283651129107 3.2744051893176063 1.3055539987076867 nan 'Iris-setosa'
+ np.int64(42)], Confidence: 0.05
+  Candidate: [4.266596682055076 3.25615092295286 1.1627584413832956 nan 'Iris-setosa'
+ np.int64(42)], Confidence: 0.05
+  Candidate: [np.float64(4.4) np.float64(3.2) np.float64(1.3) np.float64(nan)
+ 'Iris-setosa' np.int64(42)], Confidence: 0.5
+
+Error at row 147, col 1:
+  Candidate: [np.float64(6.5) np.float64(3.0) np.float64(5.2) np.float64(2.0)
+ 'Iris-virginica' np.int64(147)], Confidence: 0.4
+  Candidate: [6.486036734473947 nan 5.154877294461685 1.9768837169434157
+ 'Iris-virginica' np.int64(147)], Confidence: 0.05
+  Candidate: [6.493470397540128 nan 5.054014459479936 2.0195947353867245
+ 'Iris-virginica' np.int64(147)], Confidence: 0.05
+  Candidate: [np.float64(6.5) np.float64(nan) np.float64(5.2) np.float64(2.0)
+ 'Iris-virginica' np.int64(147)], Confidence: 0.5
+
+Error at row 83, col 2:
+  Candidate: [np.float64(6.0) np.float64(2.7) np.float64(5.1) np.float64(1.6)
+ 'Iris-versicolor' np.int64(83)], Confidence: 0.4
+  Candidate: [5.9892393164627284 2.744022871612498 nan 1.5256070806414708
+ 'Iris-versicolor' np.int64(83)], Confidence: 0.05
+  Candidate: [6.061021435167401 2.6682175537348107 nan 1.6143282753755326
+ 'Iris-versicolor' np.int64(83)], Confidence: 0.05
+  Candidate: [np.float64(6.0) np.float64(2.7) np.float64(nan) np.float64(1.6)
+ 'Iris-versicolor' np.int64(83)], Confidence: 0.5
+
+Error at row 74, col 0:
+  Candidate: [np.float64(6.4) np.float64(2.9) np.float64(4.3) np.float64(1.3)
+ 'Iris-versicolor' np.int64(74)], Confidence: 0.4
+  Candidate: [nan 2.9027765710792544 4.360179171549216 1.2841118462824692
+ 'Iris-versicolor' np.int64(74)], Confidence: 0.05
+  Candidate: [nan 2.9454980603526653 4.075067783161393 1.279347199065091
+ 'Iris-versicolor' np.int64(74)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.9) np.float64(4.3) np.float64(1.3)
+ 'Iris-versicolor' np.int64(74)], Confidence: 0.5
+
+Error at row 6, col 2:
+  Candidate: [np.float64(4.6) np.float64(3.4) np.float64(1.4) np.float64(0.3)
+ 'Iris-setosa' np.int64(6)], Confidence: 0.4
+  Candidate: [4.631696905404438 3.4332323339117963 nan 0.2494494894950259 'Iris-setosa'
+ np.int64(6)], Confidence: 0.05
+  Candidate: [4.655203468298039 3.453279779233132 nan 0.34329479769733273 'Iris-setosa'
+ np.int64(6)], Confidence: 0.05
+  Candidate: [np.float64(4.6) np.float64(3.4) np.float64(nan) np.float64(0.3)
+ 'Iris-setosa' np.int64(6)], Confidence: 0.5
+
+Error at row 105, col 3:
+  Candidate: [np.float64(7.6) np.float64(3.0) np.float64(6.6) np.float64(2.1)
+ 'Iris-virginica' np.int64(105)], Confidence: 0.4
+  Candidate: [7.5377129120916955 2.9392084580818167 6.578558597429344 nan
+ 'Iris-virginica' np.int64(105)], Confidence: 0.05
+  Candidate: [7.555452687683932 2.982415825361163 6.653632597792086 nan
+ 'Iris-virginica' np.int64(105)], Confidence: 0.05
+  Candidate: [np.float64(7.6) np.float64(3.0) np.float64(6.6) np.float64(nan)
+ 'Iris-virginica' np.int64(105)], Confidence: 0.5
+
+Error at row 55, col 1:
+  Candidate: [np.float64(5.7) np.float64(2.8) np.float64(4.5) np.float64(1.3)
+ 'Iris-versicolor' np.int64(55)], Confidence: 0.4
+  Candidate: [5.815523402320205 nan 4.553840348666839 1.2459523275024622
+ 'Iris-versicolor' np.int64(55)], Confidence: 0.05
+  Candidate: [5.820247242608624 nan 4.479761802985643 1.2714507964192918
+ 'Iris-versicolor' np.int64(55)], Confidence: 0.05
+  Candidate: [np.float64(5.7) np.float64(nan) np.float64(4.5) np.float64(1.3)
+ 'Iris-versicolor' np.int64(55)], Confidence: 0.5
+
+Error at row 100, col 1:
+  Candidate: [np.float64(6.3) np.float64(3.3) np.float64(6.0) np.float64(2.5)
+ 'Iris-virginica' np.int64(100)], Confidence: 0.4
+  Candidate: [6.271661404417565 nan 5.994642184105845 2.442772929401524
+ 'Iris-virginica' np.int64(100)], Confidence: 0.05
+  Candidate: [6.091233758977362 nan 5.953387583483697 2.4691630703105205
+ 'Iris-virginica' np.int64(100)], Confidence: 0.05
+  Candidate: [np.float64(6.3) np.float64(nan) np.float64(6.0) np.float64(2.5)
+ 'Iris-virginica' np.int64(100)], Confidence: 0.5
+
+Error at row 34, col 1:
+  Candidate: [np.float64(4.9) np.float64(3.1) np.float64(1.5) np.float64(0.1)
+ 'Iris-setosa' np.int64(34)], Confidence: 0.4
+  Candidate: [4.911772903202864 nan 1.5198228875772457 0.1945036213279512 'Iris-setosa'
+ np.int64(34)], Confidence: 0.05
+  Candidate: [4.9033918910906475 nan 1.6611857445646698 0.046944643739663075
+ 'Iris-setosa' np.int64(34)], Confidence: 0.05
+  Candidate: [np.float64(4.9) np.float64(nan) np.float64(1.5) np.float64(0.1)
+ 'Iris-setosa' np.int64(34)], Confidence: 0.5
+
+Error at row 99, col 2:
+  Candidate: [np.float64(5.7) np.float64(2.8) np.float64(4.1) np.float64(1.3)
+ 'Iris-versicolor' np.int64(99)], Confidence: 0.4
+  Candidate: [5.692171232713302 2.776729753984181 nan 1.3977798599306066
+ 'Iris-versicolor' np.int64(99)], Confidence: 0.05
+  Candidate: [5.73576291512383 2.795247014263129 nan 1.3052100782722393
+ 'Iris-versicolor' np.int64(99)], Confidence: 0.05
+  Candidate: [np.float64(5.7) np.float64(2.8) np.float64(nan) np.float64(1.3)
+ 'Iris-versicolor' np.int64(99)], Confidence: 0.5
+
+Error at row 62, col 3:
+  Candidate: [np.float64(6.0) np.float64(2.2) np.float64(4.0) np.float64(1.0)
+ 'Iris-versicolor' np.int64(62)], Confidence: 0.4
+  Candidate: [5.912645247610623 2.249636434624591 4.005249226023997 nan
+ 'Iris-versicolor' np.int64(62)], Confidence: 0.05
+  Candidate: [6.0307524489067985 2.3036509620519454 4.059922302134588 nan
+ 'Iris-versicolor' np.int64(62)], Confidence: 0.05
+  Candidate: [np.float64(6.0) np.float64(2.2) np.float64(4.0) np.float64(nan)
+ 'Iris-versicolor' np.int64(62)], Confidence: 0.5
+
+Error at row 107, col 3:
+  Candidate: [np.float64(7.3) np.float64(2.9) np.float64(6.3) np.float64(1.8)
+ 'Iris-virginica' np.int64(107)], Confidence: 0.4
+  Candidate: [7.3358286473103735 2.9174457886460416 6.280421293904133 nan
+ 'Iris-virginica' np.int64(107)], Confidence: 0.05
+  Candidate: [7.45559693090672 2.865655766711075 6.334292769835316 nan 'Iris-virginica'
+ np.int64(107)], Confidence: 0.05
+  Candidate: [np.float64(7.3) np.float64(2.9) np.float64(6.3) np.float64(nan)
+ 'Iris-virginica' np.int64(107)], Confidence: 0.5
+
+Error at row 144, col 0:
+  Candidate: [np.float64(6.7) np.float64(3.3) np.float64(5.7) np.float64(2.5)
+ 'Iris-virginica' np.int64(144)], Confidence: 0.4
+  Candidate: [nan 3.254538768053187 5.638090362944163 2.545951057281879
+ 'Iris-virginica' np.int64(144)], Confidence: 0.05
+  Candidate: [nan 3.153237926837832 5.866399219953191 2.311437307669172
+ 'Iris-virginica' np.int64(144)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.3) np.float64(5.7) np.float64(2.5)
+ 'Iris-virginica' np.int64(144)], Confidence: 0.5
+
+Error at row 52, col 0:
+  Candidate: [np.float64(6.9) np.float64(3.1) np.float64(4.9) np.float64(1.5)
+ 'Iris-versicolor' np.int64(52)], Confidence: 0.4
+  Candidate: [nan 3.1698651953167105 4.9010829321043605 1.4793016439849072
+ 'Iris-versicolor' np.int64(52)], Confidence: 0.05
+  Candidate: [nan 3.1297255878859493 4.8468269051732635 1.6127162965164779
+ 'Iris-versicolor' np.int64(52)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.1) np.float64(4.9) np.float64(1.5)
+ 'Iris-versicolor' np.int64(52)], Confidence: 0.5
+
+Error at row 0, col 3:
+  Candidate: [np.float64(5.1) np.float64(3.5) np.float64(1.4) np.float64(0.2)
+ 'Iris-setosa' np.int64(0)], Confidence: 0.4
+  Candidate: [5.097586565084681 3.5005577708466435 1.3046669274187965 nan 'Iris-setosa'
+ np.int64(0)], Confidence: 0.05
+  Candidate: [5.226456235682707 3.4835472307081083 1.4450823789129772 nan 'Iris-setosa'
+ np.int64(0)], Confidence: 0.05
+  Candidate: [np.float64(5.1) np.float64(3.5) np.float64(1.4) np.float64(nan)
+ 'Iris-setosa' np.int64(0)], Confidence: 0.5
+
+Error at row 75, col 1:
+  Candidate: [np.float64(6.6) np.float64(3.0) np.float64(4.4) np.float64(1.4)
+ 'Iris-versicolor' np.int64(75)], Confidence: 0.4
+  Candidate: [6.67715519106772 nan 4.3636052671780075 1.3923490543759371
+ 'Iris-versicolor' np.int64(75)], Confidence: 0.05
+  Candidate: [6.502796257619012 nan 4.500923153361882 1.5195686566174331
+ 'Iris-versicolor' np.int64(75)], Confidence: 0.05
+  Candidate: [np.float64(6.6) np.float64(nan) np.float64(4.4) np.float64(1.4)
+ 'Iris-versicolor' np.int64(75)], Confidence: 0.5
+
+Error at row 70, col 2:
+  Candidate: [np.float64(5.9) np.float64(3.2) np.float64(4.8) np.float64(1.8)
+ 'Iris-versicolor' np.int64(70)], Confidence: 0.4
+  Candidate: [5.821208557305928 3.3007390327649198 nan 1.7761587313873526
+ 'Iris-versicolor' np.int64(70)], Confidence: 0.05
+  Candidate: [5.951030662741012 3.163395345533484 nan 1.7544638136111173
+ 'Iris-versicolor' np.int64(70)], Confidence: 0.05
+  Candidate: [np.float64(5.9) np.float64(3.2) np.float64(nan) np.float64(1.8)
+ 'Iris-versicolor' np.int64(70)], Confidence: 0.5
+
+Error at row 125, col 3:
+  Candidate: [np.float64(7.2) np.float64(3.2) np.float64(6.0) np.float64(1.8)
+ 'Iris-virginica' np.int64(125)], Confidence: 0.4
+  Candidate: [7.215659581745319 3.1787229316911603 6.011575345206284 nan
+ 'Iris-virginica' np.int64(125)], Confidence: 0.05
+  Candidate: [7.176805607735455 3.063738721809963 5.988185344300626 nan
+ 'Iris-virginica' np.int64(125)], Confidence: 0.05
+  Candidate: [np.float64(7.2) np.float64(3.2) np.float64(6.0) np.float64(nan)
+ 'Iris-virginica' np.int64(125)], Confidence: 0.5
+
+Error at row 23, col 2:
+  Candidate: [np.float64(5.1) np.float64(3.3) np.float64(1.7) np.float64(0.5)
+ 'Iris-setosa' np.int64(23)], Confidence: 0.4
+  Candidate: [5.091606182901432 3.331795113421932 nan 0.446910480104593 'Iris-setosa'
+ np.int64(23)], Confidence: 0.05
+  Candidate: [4.998568440823244 3.330487940697939 nan 0.6630075801181987 'Iris-setosa'
+ np.int64(23)], Confidence: 0.05
+  Candidate: [np.float64(5.1) np.float64(3.3) np.float64(nan) np.float64(0.5)
+ 'Iris-setosa' np.int64(23)], Confidence: 0.5
+
+Error at row 2, col 2:
+  Candidate: [np.float64(4.7) np.float64(3.2) np.float64(1.3) np.float64(0.2)
+ 'Iris-setosa' np.int64(2)], Confidence: 0.4
+  Candidate: [4.621280909345611 3.2212144548553328 nan 0.16199788498387926
+ 'Iris-setosa' np.int64(2)], Confidence: 0.05
+  Candidate: [4.83045694728373 3.402481919898168 nan 0.2762752984346139 'Iris-setosa'
+ np.int64(2)], Confidence: 0.05
+  Candidate: [np.float64(4.7) np.float64(3.2) np.float64(nan) np.float64(0.2)
+ 'Iris-setosa' np.int64(2)], Confidence: 0.5
+
+Error at row 102, col 2:
+  Candidate: [np.float64(7.1) np.float64(3.0) np.float64(5.9) np.float64(2.1)
+ 'Iris-virginica' np.int64(102)], Confidence: 0.4
+  Candidate: [7.155574313591821 3.004198574675326 nan 2.042323905646906
+ 'Iris-virginica' np.int64(102)], Confidence: 0.05
+  Candidate: [6.9621579401354365 2.916046889606296 nan 2.300065423025796
+ 'Iris-virginica' np.int64(102)], Confidence: 0.05
+  Candidate: [np.float64(7.1) np.float64(3.0) np.float64(nan) np.float64(2.1)
+ 'Iris-virginica' np.int64(102)], Confidence: 0.5
+
+Error at row 58, col 1:
+  Candidate: [np.float64(6.6) np.float64(2.9) np.float64(4.6) np.float64(1.3)
+ 'Iris-versicolor' np.int64(58)], Confidence: 0.4
+  Candidate: [6.630769793716847 nan 4.598843348066397 1.2017252028677274
+ 'Iris-versicolor' np.int64(58)], Confidence: 0.05
+  Candidate: [6.6071115956681075 nan 4.487592810336583 1.2400097602401428
+ 'Iris-versicolor' np.int64(58)], Confidence: 0.05
+  Candidate: [np.float64(6.6) np.float64(nan) np.float64(4.6) np.float64(1.3)
+ 'Iris-versicolor' np.int64(58)], Confidence: 0.5
+
+Error at row 32, col 0:
+  Candidate: [np.float64(5.2) np.float64(4.1) np.float64(1.5) np.float64(0.1)
+ 'Iris-setosa' np.int64(32)], Confidence: 0.4
+  Candidate: [nan 4.182749355689442 1.501600345858313 0.17302012799283012 'Iris-setosa'
+ np.int64(32)], Confidence: 0.05
+  Candidate: [nan 4.093100035435915 1.4314103498896544 -0.04679628017264259
+ 'Iris-setosa' np.int64(32)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(4.1) np.float64(1.5) np.float64(0.1)
+ 'Iris-setosa' np.int64(32)], Confidence: 0.5
+
+Error at row 113, col 1:
+  Candidate: [np.float64(5.7) np.float64(2.5) np.float64(5.0) np.float64(2.0)
+ 'Iris-virginica' np.int64(113)], Confidence: 0.4
+  Candidate: [5.761505830874519 nan 5.091626323850024 2.024942831173779
+ 'Iris-virginica' np.int64(113)], Confidence: 0.05
+  Candidate: [5.782572045878631 nan 5.061221867383296 2.029002143239161
+ 'Iris-virginica' np.int64(113)], Confidence: 0.05
+  Candidate: [np.float64(5.7) np.float64(nan) np.float64(5.0) np.float64(2.0)
+ 'Iris-virginica' np.int64(113)], Confidence: 0.5
+
+Error at row 123, col 1:
+  Candidate: [np.float64(6.3) np.float64(2.7) np.float64(4.9) np.float64(1.8)
+ 'Iris-virginica' np.int64(123)], Confidence: 0.4
+  Candidate: [6.310143508509322 nan 4.90721023195598 1.6559410810122008
+ 'Iris-virginica' np.int64(123)], Confidence: 0.05
+  Candidate: [6.2023187645385365 nan 4.7182989143920615 1.6282867912865375
+ 'Iris-virginica' np.int64(123)], Confidence: 0.05
+  Candidate: [np.float64(6.3) np.float64(nan) np.float64(4.9) np.float64(1.8)
+ 'Iris-virginica' np.int64(123)], Confidence: 0.5
+
+Error at row 72, col 2:
+  Candidate: [np.float64(6.3) np.float64(2.5) np.float64(4.9) np.float64(1.5)
+ 'Iris-versicolor' np.int64(72)], Confidence: 0.4
+  Candidate: [6.259620721595508 2.5752923775512784 nan 1.448790786771502
+ 'Iris-versicolor' np.int64(72)], Confidence: 0.05
+  Candidate: [6.373922957463142 2.5372051656469052 nan 1.4009327941320262
+ 'Iris-versicolor' np.int64(72)], Confidence: 0.05
+  Candidate: [np.float64(6.3) np.float64(2.5) np.float64(nan) np.float64(1.5)
+ 'Iris-versicolor' np.int64(72)], Confidence: 0.5
+
+Error at row 79, col 0:
+  Candidate: [np.float64(5.7) np.float64(2.6) np.float64(3.5) np.float64(1.0)
+ 'Iris-versicolor' np.int64(79)], Confidence: 0.4
+  Candidate: [nan 2.6308129007487753 3.5592443107330447 1.0258769038275029
+ 'Iris-versicolor' np.int64(79)], Confidence: 0.05
+  Candidate: [nan 2.5740160927683857 3.46798800383058 1.0216894428132433
+ 'Iris-versicolor' np.int64(79)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.6) np.float64(3.5) np.float64(1.0)
+ 'Iris-versicolor' np.int64(79)], Confidence: 0.5
+
+Error at row 140, col 1:
+  Candidate: [np.float64(6.7) np.float64(3.1) np.float64(5.6) np.float64(2.4)
+ 'Iris-virginica' np.int64(140)], Confidence: 0.4
+  Candidate: [6.691293298492206 nan 5.684275596504501 2.4634140664947575
+ 'Iris-virginica' np.int64(140)], Confidence: 0.05
+  Candidate: [6.650698641813802 nan 5.482285250006738 2.581808425781742
+ 'Iris-virginica' np.int64(140)], Confidence: 0.05
+  Candidate: [np.float64(6.7) np.float64(nan) np.float64(5.6) np.float64(2.4)
+ 'Iris-virginica' np.int64(140)], Confidence: 0.5
+
+Error at row 35, col 0:
+  Candidate: [np.float64(5.0) np.float64(3.2) np.float64(1.2) np.float64(0.2)
+ 'Iris-setosa' np.int64(35)], Confidence: 0.4
+  Candidate: [nan 3.2406655661312076 1.1776460426073383 0.23173121555620652
+ 'Iris-setosa' np.int64(35)], Confidence: 0.05
+  Candidate: [nan 3.1796080685374104 1.245555511839265 0.15166213265010123
+ 'Iris-setosa' np.int64(35)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.2) np.float64(1.2) np.float64(0.2)
+ 'Iris-setosa' np.int64(35)], Confidence: 0.5
+
+Error at row 85, col 3:
+  Candidate: [np.float64(6.0) np.float64(3.4) np.float64(4.5) np.float64(1.6)
+ 'Iris-versicolor' np.int64(85)], Confidence: 0.4
+  Candidate: [5.937070778418698 3.3717334662044265 4.422083106343891 nan
+ 'Iris-versicolor' np.int64(85)], Confidence: 0.05
+  Candidate: [6.204271348779664 3.4746990350937823 4.414320096145316 nan
+ 'Iris-versicolor' np.int64(85)], Confidence: 0.05
+  Candidate: [np.float64(6.0) np.float64(3.4) np.float64(4.5) np.float64(nan)
+ 'Iris-versicolor' np.int64(85)], Confidence: 0.5
+
+Error at row 108, col 1:
+  Candidate: [np.float64(6.7) np.float64(2.5) np.float64(5.8) np.float64(1.8)
+ 'Iris-virginica' np.int64(108)], Confidence: 0.4
+  Candidate: [6.729460559601418 nan 5.849400466960119 1.827493140874035
+ 'Iris-virginica' np.int64(108)], Confidence: 0.05
+  Candidate: [6.630077414396845 nan 5.767357395923903 1.8807570223656878
+ 'Iris-virginica' np.int64(108)], Confidence: 0.05
+  Candidate: [np.float64(6.7) np.float64(nan) np.float64(5.8) np.float64(1.8)
+ 'Iris-virginica' np.int64(108)], Confidence: 0.5
+
+Error at row 24, col 0:
+  Candidate: [np.float64(4.8) np.float64(3.4) np.float64(1.9) np.float64(0.2)
+ 'Iris-setosa' np.int64(24)], Confidence: 0.4
+  Candidate: [nan 3.5463861018008047 1.8774951366593604 0.16539619934993594
+ 'Iris-setosa' np.int64(24)], Confidence: 0.05
+  Candidate: [nan 3.4043016350587347 1.891677515027962 0.15355046199645628
+ 'Iris-setosa' np.int64(24)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.4) np.float64(1.9) np.float64(0.2)
+ 'Iris-setosa' np.int64(24)], Confidence: 0.5
+
+Error at row 86, col 2:
+  Candidate: [np.float64(6.7) np.float64(3.1) np.float64(4.7) np.float64(1.5)
+ 'Iris-versicolor' np.int64(86)], Confidence: 0.4
+  Candidate: [6.749783656027505 3.0776410820394675 nan 1.440132034452007
+ 'Iris-versicolor' np.int64(86)], Confidence: 0.05
+  Candidate: [6.823867997908864 3.13110636143552 nan 1.6071711242457631
+ 'Iris-versicolor' np.int64(86)], Confidence: 0.05
+  Candidate: [np.float64(6.7) np.float64(3.1) np.float64(nan) np.float64(1.5)
+ 'Iris-versicolor' np.int64(86)], Confidence: 0.5
+
+Error at row 133, col 1:
+  Candidate: [np.float64(6.3) np.float64(2.8) np.float64(5.1) np.float64(1.5)
+ 'Iris-virginica' np.int64(133)], Confidence: 0.4
+  Candidate: [6.267540104813458 nan 5.104293379682214 1.5073134163206077
+ 'Iris-virginica' np.int64(133)], Confidence: 0.05
+  Candidate: [6.142158619864487 nan 5.185514688664088 1.6524507180887595
+ 'Iris-virginica' np.int64(133)], Confidence: 0.05
+  Candidate: [np.float64(6.3) np.float64(nan) np.float64(5.1) np.float64(1.5)
+ 'Iris-virginica' np.int64(133)], Confidence: 0.5
+
+Error at row 30, col 1:
+  Candidate: [np.float64(4.8) np.float64(3.1) np.float64(1.6) np.float64(0.2)
+ 'Iris-setosa' np.int64(30)], Confidence: 0.4
+  Candidate: [4.739000097526582 nan 1.6452674159517842 0.2533678478222395 'Iris-setosa'
+ np.int64(30)], Confidence: 0.05
+  Candidate: [4.976090384959454 nan 1.826979069906665 0.05107541095846127 'Iris-setosa'
+ np.int64(30)], Confidence: 0.05
+  Candidate: [np.float64(4.8) np.float64(nan) np.float64(1.6) np.float64(0.2)
+ 'Iris-setosa' np.int64(30)], Confidence: 0.5
+
+Error at row 31, col 3:
+  Candidate: [np.float64(5.4) np.float64(3.4) np.float64(1.5) np.float64(0.4)
+ 'Iris-setosa' np.int64(31)], Confidence: 0.4
+  Candidate: [5.401643122869068 3.4349466077073756 1.526629664621303 nan 'Iris-setosa'
+ np.int64(31)], Confidence: 0.05
+  Candidate: [5.396742974873948 3.4526579267679733 1.6556546870673188 nan 'Iris-setosa'
+ np.int64(31)], Confidence: 0.05
+  Candidate: [np.float64(5.4) np.float64(3.4) np.float64(1.5) np.float64(nan)
+ 'Iris-setosa' np.int64(31)], Confidence: 0.5
+
+Error at row 60, col 0:
+  Candidate: [np.float64(5.0) np.float64(2.0) np.float64(3.5) np.float64(1.0)
+ 'Iris-versicolor' np.int64(60)], Confidence: 0.4
+  Candidate: [nan 1.9852011665325076 3.471327547683205 1.0080313350566512
+ 'Iris-versicolor' np.int64(60)], Confidence: 0.05
+  Candidate: [nan 2.079509972253526 3.379364164736546 1.0932439591754297
+ 'Iris-versicolor' np.int64(60)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.0) np.float64(3.5) np.float64(1.0)
+ 'Iris-versicolor' np.int64(60)], Confidence: 0.5
+
+Error at row 37, col 3:
+  Candidate: [np.float64(4.9) np.float64(3.6) np.float64(1.4) np.float64(0.1)
+ 'Iris-setosa' np.int64(37)], Confidence: 0.4
+  Candidate: [4.941115038274436 3.6158346213362855 1.3781662325024486 nan 'Iris-setosa'
+ np.int64(37)], Confidence: 0.05
+  Candidate: [5.047144991573585 3.479655644255209 1.4006980748063342 nan 'Iris-setosa'
+ np.int64(37)], Confidence: 0.05
+  Candidate: [np.float64(4.9) np.float64(3.6) np.float64(1.4) np.float64(nan)
+ 'Iris-setosa' np.int64(37)], Confidence: 0.5
+
+Error at row 98, col 3:
+  Candidate: [np.float64(5.1) np.float64(2.5) np.float64(3.0) np.float64(1.1)
+ 'Iris-versicolor' np.int64(98)], Confidence: 0.4
+  Candidate: [5.127131171049724 2.446450134018282 3.0734522740181704 nan
+ 'Iris-versicolor' np.int64(98)], Confidence: 0.05
+  Candidate: [5.12350145677875 2.52773096965539 2.944378095660587 nan 'Iris-versicolor'
+ np.int64(98)], Confidence: 0.05
+  Candidate: [np.float64(5.1) np.float64(2.5) np.float64(3.0) np.float64(nan)
+ 'Iris-versicolor' np.int64(98)], Confidence: 0.5
+
+Error at row 129, col 1:
+  Candidate: [np.float64(7.2) np.float64(3.0) np.float64(5.8) np.float64(1.6)
+ 'Iris-virginica' np.int64(129)], Confidence: 0.4
+  Candidate: [7.149886414436644 nan 5.838542957068877 1.5815664001696443
+ 'Iris-virginica' np.int64(129)], Confidence: 0.05
+  Candidate: [7.252790515094547 nan 5.740690568311235 1.7121598269464327
+ 'Iris-virginica' np.int64(129)], Confidence: 0.05
+  Candidate: [np.float64(7.2) np.float64(nan) np.float64(5.8) np.float64(1.6)
+ 'Iris-virginica' np.int64(129)], Confidence: 0.5
+
+Error at row 36, col 0:
+  Candidate: [np.float64(5.5) np.float64(3.5) np.float64(1.3) np.float64(0.2)
+ 'Iris-setosa' np.int64(36)], Confidence: 0.4
+  Candidate: [nan 3.454190736141974 1.288284664864191 0.1751373997224962 'Iris-setosa'
+ np.int64(36)], Confidence: 0.05
+  Candidate: [nan 3.66951323338977 1.234392412708431 0.20401039477729513 'Iris-setosa'
+ np.int64(36)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.5) np.float64(1.3) np.float64(0.2)
+ 'Iris-setosa' np.int64(36)], Confidence: 0.5
+
+Error at row 130, col 1:
+  Candidate: [np.float64(7.4) np.float64(2.8) np.float64(6.1) np.float64(1.9)
+ 'Iris-virginica' np.int64(130)], Confidence: 0.4
+  Candidate: [7.3832398759069315 nan 6.10407554801076 1.7741198144786736
+ 'Iris-virginica' np.int64(130)], Confidence: 0.05
+  Candidate: [7.395031312951518 nan 5.820599508058639 1.916266106254666
+ 'Iris-virginica' np.int64(130)], Confidence: 0.05
+  Candidate: [np.float64(7.4) np.float64(nan) np.float64(6.1) np.float64(1.9)
+ 'Iris-virginica' np.int64(130)], Confidence: 0.5
+
+Error at row 16, col 3:
+  Candidate: [np.float64(5.4) np.float64(3.9) np.float64(1.3) np.float64(0.4)
+ 'Iris-setosa' np.int64(16)], Confidence: 0.4
+  Candidate: [5.378311617204836 3.810717372362613 1.301546864150424 nan 'Iris-setosa'
+ np.int64(16)], Confidence: 0.05
+  Candidate: [5.303414719457482 3.7926459699163964 1.368622633151503 nan 'Iris-setosa'
+ np.int64(16)], Confidence: 0.05
+  Candidate: [np.float64(5.4) np.float64(3.9) np.float64(1.3) np.float64(nan)
+ 'Iris-setosa' np.int64(16)], Confidence: 0.5
+
+Error at row 41, col 2:
+  Candidate: [np.float64(4.5) np.float64(2.3) np.float64(1.3) np.float64(0.3)
+ 'Iris-setosa' np.int64(41)], Confidence: 0.4
+  Candidate: [4.518688416816274 2.270911435529102 nan 0.29333785922896616 'Iris-setosa'
+ np.int64(41)], Confidence: 0.05
+  Candidate: [4.584143859895793 2.366488790109455 nan 0.34068150829876565 'Iris-setosa'
+ np.int64(41)], Confidence: 0.05
+  Candidate: [np.float64(4.5) np.float64(2.3) np.float64(nan) np.float64(0.3)
+ 'Iris-setosa' np.int64(41)], Confidence: 0.5
+
+Error at row 77, col 3:
+  Candidate: [np.float64(6.7) np.float64(3.0) np.float64(5.0) np.float64(1.7)
+ 'Iris-versicolor' np.int64(77)], Confidence: 0.4
+  Candidate: [6.659940901054889 2.9191593279271277 4.978680258888046 nan
+ 'Iris-versicolor' np.int64(77)], Confidence: 0.05
+  Candidate: [6.834306714551618 3.0821703442082256 5.162918241507708 nan
+ 'Iris-versicolor' np.int64(77)], Confidence: 0.05
+  Candidate: [np.float64(6.7) np.float64(3.0) np.float64(5.0) np.float64(nan)
+ 'Iris-versicolor' np.int64(77)], Confidence: 0.5
+
+Error at row 65, col 0:
+  Candidate: [np.float64(6.7) np.float64(3.1) np.float64(4.4) np.float64(1.4)
+ 'Iris-versicolor' np.int64(65)], Confidence: 0.4
+  Candidate: [nan 3.048132697025939 4.414542159606025 1.478482111820564
+ 'Iris-versicolor' np.int64(65)], Confidence: 0.05
+  Candidate: [nan 3.03011522875834 4.437217102673554 1.3400961889668028
+ 'Iris-versicolor' np.int64(65)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.1) np.float64(4.4) np.float64(1.4)
+ 'Iris-versicolor' np.int64(65)], Confidence: 0.5
+
+Error at row 141, col 3:
+  Candidate: [np.float64(6.9) np.float64(3.1) np.float64(5.1) np.float64(2.3)
+ 'Iris-virginica' np.int64(141)], Confidence: 0.4
+  Candidate: [6.8899684026727686 3.061480618045547 5.090384466155869 nan
+ 'Iris-virginica' np.int64(141)], Confidence: 0.05
+  Candidate: [7.007454612713656 2.9797791835739535 5.213017840299384 nan
+ 'Iris-virginica' np.int64(141)], Confidence: 0.05
+  Candidate: [np.float64(6.9) np.float64(3.1) np.float64(5.1) np.float64(nan)
+ 'Iris-virginica' np.int64(141)], Confidence: 0.5
+
+Error at row 46, col 2:
+  Candidate: [np.float64(5.1) np.float64(3.8) np.float64(1.6) np.float64(0.2)
+ 'Iris-setosa' np.int64(46)], Confidence: 0.4
+  Candidate: [5.058510180116013 3.8173217258491685 nan 0.20162771973869298
+ 'Iris-setosa' np.int64(46)], Confidence: 0.05
+  Candidate: [4.960709189491963 3.822967296296479 nan 0.13467499474417566 'Iris-setosa'
+ np.int64(46)], Confidence: 0.05
+  Candidate: [np.float64(5.1) np.float64(3.8) np.float64(nan) np.float64(0.2)
+ 'Iris-setosa' np.int64(46)], Confidence: 0.5
+
+Error at row 87, col 2:
+  Candidate: [np.float64(6.3) np.float64(2.3) np.float64(4.4) np.float64(1.3)
+ 'Iris-versicolor' np.int64(87)], Confidence: 0.4
+  Candidate: [6.230894245775497 2.347259942524293 nan 1.2943182008735505
+ 'Iris-versicolor' np.int64(87)], Confidence: 0.05
+  Candidate: [6.317830443218924 2.1426499606893863 nan 1.0696084151775809
+ 'Iris-versicolor' np.int64(87)], Confidence: 0.05
+  Candidate: [np.float64(6.3) np.float64(2.3) np.float64(nan) np.float64(1.3)
+ 'Iris-versicolor' np.int64(87)], Confidence: 0.5
+
+Error at row 69, col 3:
+  Candidate: [np.float64(5.6) np.float64(2.5) np.float64(3.9) np.float64(1.1)
+ 'Iris-versicolor' np.int64(69)], Confidence: 0.4
+  Candidate: [5.724524093935517 2.43451653333507 3.903821943438559 nan
+ 'Iris-versicolor' np.int64(69)], Confidence: 0.05
+  Candidate: [5.596295672244577 2.492257420119812 3.9926646803428123 nan
+ 'Iris-versicolor' np.int64(69)], Confidence: 0.05
+  Candidate: [np.float64(5.6) np.float64(2.5) np.float64(3.9) np.float64(nan)
+ 'Iris-versicolor' np.int64(69)], Confidence: 0.5
+
+Error at row 97, col 1:
+  Candidate: [np.float64(6.2) np.float64(2.9) np.float64(4.3) np.float64(1.3)
+ 'Iris-versicolor' np.int64(97)], Confidence: 0.4
+  Candidate: [6.1440081518355365 nan 4.361802833226845 1.1274747087211818
+ 'Iris-versicolor' np.int64(97)], Confidence: 0.05
+  Candidate: [6.3269734959565875 nan 4.438924427935744 1.2224372289823027
+ 'Iris-versicolor' np.int64(97)], Confidence: 0.05
+  Candidate: [np.float64(6.2) np.float64(nan) np.float64(4.3) np.float64(1.3)
+ 'Iris-versicolor' np.int64(97)], Confidence: 0.5
+
+Error at row 114, col 0:
+  Candidate: [np.float64(5.8) np.float64(2.8) np.float64(5.1) np.float64(2.4)
+ 'Iris-virginica' np.int64(114)], Confidence: 0.4
+  Candidate: [nan 2.7524157132599916 5.054369376772999 2.3607068792422043
+ 'Iris-virginica' np.int64(114)], Confidence: 0.05
+  Candidate: [nan 2.8263923066924184 5.079777452206148 2.444173930205294
+ 'Iris-virginica' np.int64(114)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.8) np.float64(5.1) np.float64(2.4)
+ 'Iris-virginica' np.int64(114)], Confidence: 0.5
+
+Error at row 33, col 3:
+  Candidate: [np.float64(5.5) np.float64(4.2) np.float64(1.4) np.float64(0.2)
+ 'Iris-setosa' np.int64(33)], Confidence: 0.4
+  Candidate: [5.456213670626481 4.326361116621824 1.4185492496356222 nan 'Iris-setosa'
+ np.int64(33)], Confidence: 0.05
+  Candidate: [5.469303614718528 4.213633844056608 1.3786419031990806 nan 'Iris-setosa'
+ np.int64(33)], Confidence: 0.05
+  Candidate: [np.float64(5.5) np.float64(4.2) np.float64(1.4) np.float64(nan)
+ 'Iris-setosa' np.int64(33)], Confidence: 0.5
+
+Error at row 15, col 3:
+  Candidate: [np.float64(5.7) np.float64(4.4) np.float64(1.5) np.float64(0.4)
+ 'Iris-setosa' np.int64(15)], Confidence: 0.4
+  Candidate: [5.70673682468201 4.402319135774349 1.5010170722134404 nan 'Iris-setosa'
+ np.int64(15)], Confidence: 0.05
+  Candidate: [5.6953778997279825 4.411879510732339 1.4758636682893884 nan 'Iris-setosa'
+ np.int64(15)], Confidence: 0.05
+  Candidate: [np.float64(5.7) np.float64(4.4) np.float64(1.5) np.float64(nan)
+ 'Iris-setosa' np.int64(15)], Confidence: 0.5
+
+Error at row 10, col 0:
+  Candidate: [np.float64(5.4) np.float64(3.7) np.float64(1.5) np.float64(0.2)
+ 'Iris-setosa' np.int64(10)], Confidence: 0.4
+  Candidate: [nan 3.6685941734803458 1.513447414719664 0.16124900190879635
+ 'Iris-setosa' np.int64(10)], Confidence: 0.05
+  Candidate: [nan 3.899993578917406 1.4898460251451477 0.339155170933356 'Iris-setosa'
+ np.int64(10)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.7) np.float64(1.5) np.float64(0.2)
+ 'Iris-setosa' np.int64(10)], Confidence: 0.5
+
+Error at row 134, col 1:
+  Candidate: [np.float64(6.1) np.float64(2.6) np.float64(5.6) np.float64(1.4)
+ 'Iris-virginica' np.int64(134)], Confidence: 0.4
+  Candidate: [6.062548409167522 nan 5.525689809533927 1.435440248225023
+ 'Iris-virginica' np.int64(134)], Confidence: 0.05
+  Candidate: [6.0430860047809976 nan 5.633083814632481 1.4028428102125996
+ 'Iris-virginica' np.int64(134)], Confidence: 0.05
+  Candidate: [np.float64(6.1) np.float64(nan) np.float64(5.6) np.float64(1.4)
+ 'Iris-virginica' np.int64(134)], Confidence: 0.5
+
+Error at row 11, col 0:
+  Candidate: [np.float64(4.8) np.float64(3.4) np.float64(1.6) np.float64(0.2)
+ 'Iris-setosa' np.int64(11)], Confidence: 0.4
+  Candidate: [nan 3.4138939299495767 1.5511949223599921 0.2246511984554354
+ 'Iris-setosa' np.int64(11)], Confidence: 0.05
+  Candidate: [nan 3.374252992886134 1.804671901678168 0.22212589381079806 'Iris-setosa'
+ np.int64(11)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.4) np.float64(1.6) np.float64(0.2)
+ 'Iris-setosa' np.int64(11)], Confidence: 0.5
+
+Error at row 50, col 1:
+  Candidate: [np.float64(7.0) np.float64(3.2) np.float64(4.7) np.float64(1.4)
+ 'Iris-versicolor' np.int64(50)], Confidence: 0.4
+  Candidate: [6.974980249236855 nan 4.6381187711213885 1.4028734655056365
+ 'Iris-versicolor' np.int64(50)], Confidence: 0.05
+  Candidate: [6.9382663569277225 nan 4.847341042862925 1.2360657174943863
+ 'Iris-versicolor' np.int64(50)], Confidence: 0.05
+  Candidate: [np.float64(7.0) np.float64(nan) np.float64(4.7) np.float64(1.4)
+ 'Iris-versicolor' np.int64(50)], Confidence: 0.5
+
+Error at row 51, col 0:
+  Candidate: [np.float64(6.4) np.float64(3.2) np.float64(4.5) np.float64(1.5)
+ 'Iris-versicolor' np.int64(51)], Confidence: 0.4
+  Candidate: [nan 3.1371259884036657 4.518076663374055 1.5262291983357852
+ 'Iris-versicolor' np.int64(51)], Confidence: 0.05
+  Candidate: [nan 3.118078861254321 4.420693981694634 1.399816572599546
+ 'Iris-versicolor' np.int64(51)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.2) np.float64(4.5) np.float64(1.5)
+ 'Iris-versicolor' np.int64(51)], Confidence: 0.5
+
+Error at row 126, col 0:
+  Candidate: [np.float64(6.2) np.float64(2.8) np.float64(4.8) np.float64(1.8)
+ 'Iris-virginica' np.int64(126)], Confidence: 0.4
+  Candidate: [nan 2.7621688076614284 4.797648572878169 1.769705120485854
+ 'Iris-virginica' np.int64(126)], Confidence: 0.05
+  Candidate: [nan 2.9840662427496065 4.575414511984935 1.6277921430612237
+ 'Iris-virginica' np.int64(126)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.8) np.float64(4.8) np.float64(1.8)
+ 'Iris-virginica' np.int64(126)], Confidence: 0.5
+
+Error at row 73, col 0:
+  Candidate: [np.float64(6.1) np.float64(2.8) np.float64(4.7) np.float64(1.2)
+ 'Iris-versicolor' np.int64(73)], Confidence: 0.4
+  Candidate: [nan 2.809608904612952 4.624484667211379 1.2583657768892111
+ 'Iris-versicolor' np.int64(73)], Confidence: 0.05
+  Candidate: [nan 2.6186549735203495 4.848745366775711 1.037019560663737
+ 'Iris-versicolor' np.int64(73)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.8) np.float64(4.7) np.float64(1.2)
+ 'Iris-versicolor' np.int64(73)], Confidence: 0.5
+
+Error at row 38, col 1:
+  Candidate: [np.float64(4.4) np.float64(3.0) np.float64(1.3) np.float64(0.2)
+ 'Iris-setosa' np.int64(38)], Confidence: 0.4
+  Candidate: [4.235184280442851 nan 1.2480341523031453 0.23667615352632676
+ 'Iris-setosa' np.int64(38)], Confidence: 0.05
+  Candidate: [4.243069421210383 nan 1.342356932393379 0.33922403903027293 'Iris-setosa'
+ np.int64(38)], Confidence: 0.05
+  Candidate: [np.float64(4.4) np.float64(nan) np.float64(1.3) np.float64(0.2)
+ 'Iris-setosa' np.int64(38)], Confidence: 0.5
+
+Error at row 27, col 3:
+  Candidate: [np.float64(5.2) np.float64(3.5) np.float64(1.5) np.float64(0.2)
+ 'Iris-setosa' np.int64(27)], Confidence: 0.4
+  Candidate: [5.140862704887411 3.534565292496296 1.5316425581532969 nan 'Iris-setosa'
+ np.int64(27)], Confidence: 0.05
+  Candidate: [5.224067626014884 3.508089747305313 1.4777643514146317 nan 'Iris-setosa'
+ np.int64(27)], Confidence: 0.05
+  Candidate: [np.float64(5.2) np.float64(3.5) np.float64(1.5) np.float64(nan)
+ 'Iris-setosa' np.int64(27)], Confidence: 0.5
+
+Error at row 142, col 3:
+  Candidate: [np.float64(5.8) np.float64(2.7) np.float64(5.1) np.float64(1.9)
+ 'Iris-virginica' np.int64(142)], Confidence: 0.4
+  Candidate: [5.831885041816871 2.709941500675713 4.995760783475078 nan
+ 'Iris-virginica' np.int64(142)], Confidence: 0.05
+  Candidate: [5.859267437958012 2.7520625743645764 4.981179625376753 nan
+ 'Iris-virginica' np.int64(142)], Confidence: 0.05
+  Candidate: [np.float64(5.8) np.float64(2.7) np.float64(5.1) np.float64(nan)
+ 'Iris-virginica' np.int64(142)], Confidence: 0.5
+
+Error at row 7, col 1:
+  Candidate: [np.float64(5.0) np.float64(3.4) np.float64(1.5) np.float64(0.2)
+ 'Iris-setosa' np.int64(7)], Confidence: 0.4
+  Candidate: [5.093653072242246 nan 1.5734695274141368 0.07694854274392877
+ 'Iris-setosa' np.int64(7)], Confidence: 0.05
+  Candidate: [4.9868357499854 nan 1.6859564350588498 0.268924520988235 'Iris-setosa'
+ np.int64(7)], Confidence: 0.05
+  Candidate: [np.float64(5.0) np.float64(nan) np.float64(1.5) np.float64(0.2)
+ 'Iris-setosa' np.int64(7)], Confidence: 0.5
+
+Error at row 45, col 1:
+  Candidate: [np.float64(4.8) np.float64(3.0) np.float64(1.4) np.float64(0.3)
+ 'Iris-setosa' np.int64(45)], Confidence: 0.4
+  Candidate: [4.80456537832602 nan 1.420311101782459 0.23668434386441872 'Iris-setosa'
+ np.int64(45)], Confidence: 0.05
+  Candidate: [4.989074634452242 nan 1.4706690594382161 0.30051257905418816
+ 'Iris-setosa' np.int64(45)], Confidence: 0.05
+  Candidate: [np.float64(4.8) np.float64(nan) np.float64(1.4) np.float64(0.3)
+ 'Iris-setosa' np.int64(45)], Confidence: 0.5
+
+Error at row 138, col 0:
+  Candidate: [np.float64(6.0) np.float64(3.0) np.float64(4.8) np.float64(1.8)
+ 'Iris-virginica' np.int64(138)], Confidence: 0.4
+  Candidate: [nan 2.911057284751832 4.798840089758801 1.7596580065925476
+ 'Iris-virginica' np.int64(138)], Confidence: 0.05
+  Candidate: [nan 2.972939950733006 4.523880531092242 1.8999102608009923
+ 'Iris-virginica' np.int64(138)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.0) np.float64(4.8) np.float64(1.8)
+ 'Iris-virginica' np.int64(138)], Confidence: 0.5
+
+Error at row 127, col 2:
+  Candidate: [np.float64(6.1) np.float64(3.0) np.float64(4.9) np.float64(1.8)
+ 'Iris-virginica' np.int64(127)], Confidence: 0.4
+  Candidate: [6.163878222013415 2.9345766295708424 nan 1.7347166873386557
+ 'Iris-virginica' np.int64(127)], Confidence: 0.05
+  Candidate: [6.03826271024854 3.0607744924692626 nan 1.778478275736904
+ 'Iris-virginica' np.int64(127)], Confidence: 0.05
+  Candidate: [np.float64(6.1) np.float64(3.0) np.float64(nan) np.float64(1.8)
+ 'Iris-virginica' np.int64(127)], Confidence: 0.5
+
+Error at row 88, col 2:
+  Candidate: [np.float64(5.6) np.float64(3.0) np.float64(4.1) np.float64(1.3)
+ 'Iris-versicolor' np.int64(88)], Confidence: 0.4
+  Candidate: [5.608693913114889 3.0178172607678646 nan 1.271866002258077
+ 'Iris-versicolor' np.int64(88)], Confidence: 0.05
+  Candidate: [5.527239347125239 2.930560931683216 nan 1.3034822864722841
+ 'Iris-versicolor' np.int64(88)], Confidence: 0.05
+  Candidate: [np.float64(5.6) np.float64(3.0) np.float64(nan) np.float64(1.3)
+ 'Iris-versicolor' np.int64(88)], Confidence: 0.5
+
+Error at row 57, col 3:
+  Candidate: [np.float64(4.9) np.float64(2.4) np.float64(3.3) np.float64(1.0)
+ 'Iris-versicolor' np.int64(57)], Confidence: 0.4
+  Candidate: [4.894580381550029 2.5171477799395046 3.3422079026537306 nan
+ 'Iris-versicolor' np.int64(57)], Confidence: 0.05
+  Candidate: [4.959891753102382 2.440037346816301 3.3132337165019234 nan
+ 'Iris-versicolor' np.int64(57)], Confidence: 0.05
+  Candidate: [np.float64(4.9) np.float64(2.4) np.float64(3.3) np.float64(nan)
+ 'Iris-versicolor' np.int64(57)], Confidence: 0.5
+
+Error at row 106, col 2:
+  Candidate: [np.float64(4.9) np.float64(2.5) np.float64(4.5) np.float64(1.7)
+ 'Iris-virginica' np.int64(106)], Confidence: 0.4
+  Candidate: [5.005971800820771 2.5247205120790976 nan 1.777555144720292
+ 'Iris-virginica' np.int64(106)], Confidence: 0.05
+  Candidate: [4.9242330516705985 2.642593550997608 nan 1.7226697212569235
+ 'Iris-virginica' np.int64(106)], Confidence: 0.05
+  Candidate: [np.float64(4.9) np.float64(2.5) np.float64(nan) np.float64(1.7)
+ 'Iris-virginica' np.int64(106)], Confidence: 0.5
+
+Error at row 112, col 2:
+  Candidate: [np.float64(6.8) np.float64(3.0) np.float64(5.5) np.float64(2.1)
+ 'Iris-virginica' np.int64(112)], Confidence: 0.4
+  Candidate: [6.766276215766461 3.008084283302886 nan 2.163893759601427
+ 'Iris-virginica' np.int64(112)], Confidence: 0.05
+  Candidate: [6.814005204470712 3.068845119942502 nan 2.0087568341356357
+ 'Iris-virginica' np.int64(112)], Confidence: 0.05
+  Candidate: [np.float64(6.8) np.float64(3.0) np.float64(nan) np.float64(2.1)
+ 'Iris-virginica' np.int64(112)], Confidence: 0.5
+
+Error at row 92, col 2:
+  Candidate: [np.float64(5.8) np.float64(2.6) np.float64(4.0) np.float64(1.2)
+ 'Iris-versicolor' np.int64(92)], Confidence: 0.4
+  Candidate: [5.819958833542143 2.6234209176123566 nan 1.1889990586098191
+ 'Iris-versicolor' np.int64(92)], Confidence: 0.05
+  Candidate: [5.675096434564199 2.848979565090902 nan 1.3125247947059755
+ 'Iris-versicolor' np.int64(92)], Confidence: 0.05
+  Candidate: [np.float64(5.8) np.float64(2.6) np.float64(nan) np.float64(1.2)
+ 'Iris-versicolor' np.int64(92)], Confidence: 0.5
+
+Error at row 103, col 3:
+  Candidate: [np.float64(6.3) np.float64(2.9) np.float64(5.6) np.float64(1.8)
+ 'Iris-virginica' np.int64(103)], Confidence: 0.4
+  Candidate: [6.321685440198563 2.9050627025177933 5.56400508867397 nan
+ 'Iris-virginica' np.int64(103)], Confidence: 0.05
+  Candidate: [6.324558969553552 2.809436846825061 5.52593070224273 nan 'Iris-virginica'
+ np.int64(103)], Confidence: 0.05
+  Candidate: [np.float64(6.3) np.float64(2.9) np.float64(5.6) np.float64(nan)
+ 'Iris-virginica' np.int64(103)], Confidence: 0.5
+
+Error at row 139, col 2:
+  Candidate: [np.float64(6.9) np.float64(3.1) np.float64(5.4) np.float64(2.1)
+ 'Iris-virginica' np.int64(139)], Confidence: 0.4
+  Candidate: [6.913787639504665 3.096941924129888 nan 2.1029102168019773
+ 'Iris-virginica' np.int64(139)], Confidence: 0.05
+  Candidate: [6.787195395088747 3.127495310410183 nan 1.883611487557918
+ 'Iris-virginica' np.int64(139)], Confidence: 0.05
+  Candidate: [np.float64(6.9) np.float64(3.1) np.float64(nan) np.float64(2.1)
+ 'Iris-virginica' np.int64(139)], Confidence: 0.5
+
+Error at row 128, col 1:
+  Candidate: [np.float64(6.4) np.float64(2.8) np.float64(5.6) np.float64(2.1)
+ 'Iris-virginica' np.int64(128)], Confidence: 0.4
+  Candidate: [6.392171770007624 nan 5.562288549682589 2.124262295448325
+ 'Iris-virginica' np.int64(128)], Confidence: 0.05
+  Candidate: [6.569426695078819 nan 5.703517859356203 2.196767818615655
+ 'Iris-virginica' np.int64(128)], Confidence: 0.05
+  Candidate: [np.float64(6.4) np.float64(nan) np.float64(5.6) np.float64(2.1)
+ 'Iris-virginica' np.int64(128)], Confidence: 0.5
+
+Error at row 61, col 1:
+  Candidate: [np.float64(5.9) np.float64(3.0) np.float64(4.2) np.float64(1.5)
+ 'Iris-versicolor' np.int64(61)], Confidence: 0.4
+  Candidate: [5.945837844518279 nan 4.192689262502913 1.4766109701557137
+ 'Iris-versicolor' np.int64(61)], Confidence: 0.05
+  Candidate: [5.97474641782949 nan 4.141955222366032 1.454588632320267
+ 'Iris-versicolor' np.int64(61)], Confidence: 0.05
+  Candidate: [np.float64(5.9) np.float64(nan) np.float64(4.2) np.float64(1.5)
+ 'Iris-versicolor' np.int64(61)], Confidence: 0.5
+
+Error at row 136, col 2:
+  Candidate: [np.float64(6.3) np.float64(3.4) np.float64(5.6) np.float64(2.4)
+ 'Iris-virginica' np.int64(136)], Confidence: 0.4
+  Candidate: [6.322396187178673 3.4539293461673255 nan 2.482839236056654
+ 'Iris-virginica' np.int64(136)], Confidence: 0.05
+  Candidate: [6.309036742222113 3.232596340144743 nan 2.5427929715281943
+ 'Iris-virginica' np.int64(136)], Confidence: 0.05
+  Candidate: [np.float64(6.3) np.float64(3.4) np.float64(nan) np.float64(2.4)
+ 'Iris-virginica' np.int64(136)], Confidence: 0.5
+
+Error at row 146, col 2:
+  Candidate: [np.float64(6.3) np.float64(2.5) np.float64(5.0) np.float64(1.9)
+ 'Iris-virginica' np.int64(146)], Confidence: 0.4
+  Candidate: [6.35157866062432 2.572046301379116 nan 1.8993118370544377
+ 'Iris-virginica' np.int64(146)], Confidence: 0.05
+  Candidate: [6.248703036300898 2.4965380766541103 nan 1.815512229364653
+ 'Iris-virginica' np.int64(146)], Confidence: 0.05
+  Candidate: [np.float64(6.3) np.float64(2.5) np.float64(nan) np.float64(1.9)
+ 'Iris-virginica' np.int64(146)], Confidence: 0.5
+
+Error at row 56, col 1:
+  Candidate: [np.float64(6.3) np.float64(3.3) np.float64(4.7) np.float64(1.6)
+ 'Iris-versicolor' np.int64(56)], Confidence: 0.4
+  Candidate: [6.292211326636576 nan 4.818116779984401 1.720239655869267
+ 'Iris-versicolor' np.int64(56)], Confidence: 0.05
+  Candidate: [6.332028372650516 nan 4.49645915687859 1.670722679769 'Iris-versicolor'
+ np.int64(56)], Confidence: 0.05
+  Candidate: [np.float64(6.3) np.float64(nan) np.float64(4.7) np.float64(1.6)
+ 'Iris-versicolor' np.int64(56)], Confidence: 0.5
+
+Error at row 84, col 0:
+  Candidate: [np.float64(5.4) np.float64(3.0) np.float64(4.5) np.float64(1.5)
+ 'Iris-versicolor' np.int64(84)], Confidence: 0.4
+  Candidate: [nan 2.888621316035595 4.572611082427093 1.4954759737369214
+ 'Iris-versicolor' np.int64(84)], Confidence: 0.05
+  Candidate: [nan 2.836430372199993 4.506968562460051 1.5512069935808117
+ 'Iris-versicolor' np.int64(84)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.0) np.float64(4.5) np.float64(1.5)
+ 'Iris-versicolor' np.int64(84)], Confidence: 0.5
+
+Error at row 91, col 2:
+  Candidate: [np.float64(6.1) np.float64(3.0) np.float64(4.6) np.float64(1.4)
+ 'Iris-versicolor' np.int64(91)], Confidence: 0.4
+  Candidate: [6.079478998268826 2.9836242591160986 nan 1.408535244304981
+ 'Iris-versicolor' np.int64(91)], Confidence: 0.05
+  Candidate: [6.0497307988982465 3.0160848972515657 nan 1.5151293780965882
+ 'Iris-versicolor' np.int64(91)], Confidence: 0.05
+  Candidate: [np.float64(6.1) np.float64(3.0) np.float64(nan) np.float64(1.4)
+ 'Iris-versicolor' np.int64(91)], Confidence: 0.5
+
+Error at row 19, col 3:
+  Candidate: [np.float64(5.1) np.float64(3.8) np.float64(1.5) np.float64(0.3)
+ 'Iris-setosa' np.int64(19)], Confidence: 0.4
+  Candidate: [5.091343011748065 3.773180813333671 1.5099850458741586 nan 'Iris-setosa'
+ np.int64(19)], Confidence: 0.05
+  Candidate: [4.966450041543557 3.7412588471101555 1.6812778079921975 nan 'Iris-setosa'
+ np.int64(19)], Confidence: 0.05
+  Candidate: [np.float64(5.1) np.float64(3.8) np.float64(1.5) np.float64(nan)
+ 'Iris-setosa' np.int64(19)], Confidence: 0.5
+
+Error at row 120, col 1:
+  Candidate: [np.float64(6.9) np.float64(3.2) np.float64(5.7) np.float64(2.3)
+ 'Iris-virginica' np.int64(120)], Confidence: 0.4
+  Candidate: [6.957039888621002 nan 5.693360219417601 2.3774133871686343
+ 'Iris-virginica' np.int64(120)], Confidence: 0.05
+  Candidate: [6.9582236439821665 nan 5.7570333813194265 2.2606451748001555
+ 'Iris-virginica' np.int64(120)], Confidence: 0.05
+  Candidate: [np.float64(6.9) np.float64(nan) np.float64(5.7) np.float64(2.3)
+ 'Iris-virginica' np.int64(120)], Confidence: 0.5
+
+Error at row 29, col 1:
+  Candidate: [np.float64(4.7) np.float64(3.2) np.float64(1.6) np.float64(0.2)
+ 'Iris-setosa' np.int64(29)], Confidence: 0.4
+  Candidate: [4.696691796584029 nan 1.5508599091586315 0.15480837845930848
+ 'Iris-setosa' np.int64(29)], Confidence: 0.05
+  Candidate: [4.583750999875675 nan 1.508122948281468 0.1859443485741639 'Iris-setosa'
+ np.int64(29)], Confidence: 0.05
+  Candidate: [np.float64(4.7) np.float64(nan) np.float64(1.6) np.float64(0.2)
+ 'Iris-setosa' np.int64(29)], Confidence: 0.5
+
+Error at row 12, col 3:
+  Candidate: [np.float64(4.8) np.float64(3.0) np.float64(1.4) np.float64(0.1)
+ 'Iris-setosa' np.int64(12)], Confidence: 0.4
+  Candidate: [4.781462969978557 2.9451577719666044 1.38409928678238 nan 'Iris-setosa'
+ np.int64(12)], Confidence: 0.05
+  Candidate: [4.770971322013904 3.1242847988084046 1.535958183326398 nan 'Iris-setosa'
+ np.int64(12)], Confidence: 0.05
+  Candidate: [np.float64(4.8) np.float64(3.0) np.float64(1.4) np.float64(nan)
+ 'Iris-setosa' np.int64(12)], Confidence: 0.5
+
+Error at row 71, col 1:
+  Candidate: [np.float64(6.1) np.float64(2.8) np.float64(4.0) np.float64(1.3)
+ 'Iris-versicolor' np.int64(71)], Confidence: 0.4
+  Candidate: [6.165757694574117 nan 3.9938052338461585 1.3579389553685304
+ 'Iris-versicolor' np.int64(71)], Confidence: 0.05
+  Candidate: [5.974479689374149 nan 3.9855142068008393 1.4040186662242569
+ 'Iris-versicolor' np.int64(71)], Confidence: 0.05
+  Candidate: [np.float64(6.1) np.float64(nan) np.float64(4.0) np.float64(1.3)
+ 'Iris-versicolor' np.int64(71)], Confidence: 0.5
+
+Error at row 149, col 3:
+  Candidate: [np.float64(5.9) np.float64(3.0) np.float64(5.1) np.float64(1.8)
+ 'Iris-virginica' np.int64(149)], Confidence: 0.4
+  Candidate: [5.9423603017338715 3.0567792024749734 4.988300907245064 nan
+ 'Iris-virginica' np.int64(149)], Confidence: 0.05
+  Candidate: [5.864060848237535 3.0687123481524186 5.16567279975597 nan
+ 'Iris-virginica' np.int64(149)], Confidence: 0.05
+  Candidate: [np.float64(5.9) np.float64(3.0) np.float64(5.1) np.float64(nan)
+ 'Iris-virginica' np.int64(149)], Confidence: 0.5
+
+Error at row 13, col 0:
+  Candidate: [np.float64(4.3) np.float64(3.0) np.float64(1.1) np.float64(0.1)
+ 'Iris-setosa' np.int64(13)], Confidence: 0.4
+  Candidate: [nan 2.9094611556024663 1.0995645698375698 0.13229186852160674
+ 'Iris-setosa' np.int64(13)], Confidence: 0.05
+  Candidate: [nan 3.010601696548673 1.0308161447263717 0.07496588901270856
+ 'Iris-setosa' np.int64(13)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.0) np.float64(1.1) np.float64(0.1)
+ 'Iris-setosa' np.int64(13)], Confidence: 0.5
+
+Error at row 118, col 3:
+  Candidate: [np.float64(7.7) np.float64(2.6) np.float64(6.9) np.float64(2.3)
+ 'Iris-virginica' np.int64(118)], Confidence: 0.4
+  Candidate: [7.687895347613621 2.5689798228280942 6.895774500926102 nan
+ 'Iris-virginica' np.int64(118)], Confidence: 0.05
+  Candidate: [7.923088898898703 2.572989368818346 6.967333910513227 nan
+ 'Iris-virginica' np.int64(118)], Confidence: 0.05
+  Candidate: [np.float64(7.7) np.float64(2.6) np.float64(6.9) np.float64(nan)
+ 'Iris-virginica' np.int64(118)], Confidence: 0.5
+
+Error at row 145, col 0:
+  Candidate: [np.float64(6.7) np.float64(3.0) np.float64(5.2) np.float64(2.3)
+ 'Iris-virginica' np.int64(145)], Confidence: 0.4
+  Candidate: [nan 2.8874132344716594 5.285523712153218 2.240694872604802
+ 'Iris-virginica' np.int64(145)], Confidence: 0.05
+  Candidate: [nan 3.171184628404905 5.374388121010242 2.3368163996522697
+ 'Iris-virginica' np.int64(145)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.0) np.float64(5.2) np.float64(2.3)
+ 'Iris-virginica' np.int64(145)], Confidence: 0.5
+
+Error at row 119, col 1:
+  Candidate: [np.float64(6.0) np.float64(2.2) np.float64(5.0) np.float64(1.5)
+ 'Iris-virginica' np.int64(119)], Confidence: 0.4
+  Candidate: [6.000094787799771 nan 4.992425211701795 1.5786351901198843
+ 'Iris-virginica' np.int64(119)], Confidence: 0.05
+  Candidate: [6.053107380193127 nan 4.840696206541542 1.3326644360549453
+ 'Iris-virginica' np.int64(119)], Confidence: 0.05
+  Candidate: [np.float64(6.0) np.float64(nan) np.float64(5.0) np.float64(1.5)
+ 'Iris-virginica' np.int64(119)], Confidence: 0.5
+
+Error at row 122, col 1:
+  Candidate: [np.float64(7.7) np.float64(2.8) np.float64(6.7) np.float64(2.0)
+ 'Iris-virginica' np.int64(122)], Confidence: 0.4
+  Candidate: [7.700120330920253 nan 6.725185817348445 1.9832807134244161
+ 'Iris-virginica' np.int64(122)], Confidence: 0.05
+  Candidate: [7.753824084872725 nan 6.612457239742345 2.0046805068658267
+ 'Iris-virginica' np.int64(122)], Confidence: 0.05
+  Candidate: [np.float64(7.7) np.float64(nan) np.float64(6.7) np.float64(2.0)
+ 'Iris-virginica' np.int64(122)], Confidence: 0.5
+
+Error at row 63, col 0:
+  Candidate: [np.float64(6.1) np.float64(2.9) np.float64(4.7) np.float64(1.4)
+ 'Iris-versicolor' np.int64(63)], Confidence: 0.4
+  Candidate: [nan 2.931452517611189 4.6786284047352655 1.4088335406088552
+ 'Iris-versicolor' np.int64(63)], Confidence: 0.05
+  Candidate: [nan 3.020199519940124 4.671221995802878 1.2590396852975947
+ 'Iris-versicolor' np.int64(63)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.9) np.float64(4.7) np.float64(1.4)
+ 'Iris-versicolor' np.int64(63)], Confidence: 0.5
+
+Error at row 80, col 1:
+  Candidate: [np.float64(5.5) np.float64(2.4) np.float64(3.8) np.float64(1.1)
+ 'Iris-versicolor' np.int64(80)], Confidence: 0.4
+  Candidate: [5.565575706661379 nan 3.778432025742091 1.1426666877309786
+ 'Iris-versicolor' np.int64(80)], Confidence: 0.05
+  Candidate: [5.491630164849667 nan 3.7779974944696817 1.2519615834151618
+ 'Iris-versicolor' np.int64(80)], Confidence: 0.05
+  Candidate: [np.float64(5.5) np.float64(nan) np.float64(3.8) np.float64(1.1)
+ 'Iris-versicolor' np.int64(80)], Confidence: 0.5
+
+Error at row 82, col 3:
+  Candidate: [np.float64(5.8) np.float64(2.7) np.float64(3.9) np.float64(1.2)
+ 'Iris-versicolor' np.int64(82)], Confidence: 0.4
+  Candidate: [5.832546974922699 2.6943603666546605 3.8811698037377513 nan
+ 'Iris-versicolor' np.int64(82)], Confidence: 0.05
+  Candidate: [5.887094119602329 2.9165094794632482 3.923309064576548 nan
+ 'Iris-versicolor' np.int64(82)], Confidence: 0.05
+  Candidate: [np.float64(5.8) np.float64(2.7) np.float64(3.9) np.float64(nan)
+ 'Iris-versicolor' np.int64(82)], Confidence: 0.5
+
+Error at row 96, col 0:
+  Candidate: [np.float64(5.7) np.float64(2.9) np.float64(4.2) np.float64(1.3)
+ 'Iris-versicolor' np.int64(96)], Confidence: 0.4
+  Candidate: [nan 2.870045945661254 4.1918559310236345 1.3357868395835677
+ 'Iris-versicolor' np.int64(96)], Confidence: 0.05
+  Candidate: [nan 2.89512364438913 4.181489936233535 1.2420946558702581
+ 'Iris-versicolor' np.int64(96)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.9) np.float64(4.2) np.float64(1.3)
+ 'Iris-versicolor' np.int64(96)], Confidence: 0.5
+
+Error at row 76, col 0:
+  Candidate: [np.float64(6.8) np.float64(2.8) np.float64(4.8) np.float64(1.4)
+ 'Iris-versicolor' np.int64(76)], Confidence: 0.4
+  Candidate: [nan 2.7895819516157796 4.811636582194333 1.4092860275172667
+ 'Iris-versicolor' np.int64(76)], Confidence: 0.05
+  Candidate: [nan 2.8879653375254413 4.8318817036759 1.4216446955139408
+ 'Iris-versicolor' np.int64(76)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(2.8) np.float64(4.8) np.float64(1.4)
+ 'Iris-versicolor' np.int64(76)], Confidence: 0.5
+
+Error at row 49, col 2:
+  Candidate: [np.float64(5.0) np.float64(3.3) np.float64(1.4) np.float64(0.2)
+ 'Iris-setosa' np.int64(49)], Confidence: 0.4
+  Candidate: [5.095178746384604 3.3007982148035215 nan 0.30090213074187666
+ 'Iris-setosa' np.int64(49)], Confidence: 0.05
+  Candidate: [4.7919221092143065 3.136225224759783 nan -0.09194133965161289
+ 'Iris-setosa' np.int64(49)], Confidence: 0.05
+  Candidate: [np.float64(5.0) np.float64(3.3) np.float64(nan) np.float64(0.2)
+ 'Iris-setosa' np.int64(49)], Confidence: 0.5
+
+Error at row 59, col 2:
+  Candidate: [np.float64(5.2) np.float64(2.7) np.float64(3.9) np.float64(1.4)
+ 'Iris-versicolor' np.int64(59)], Confidence: 0.4
+  Candidate: [5.206965443440347 2.6235258792698692 nan 1.4964823719299714
+ 'Iris-versicolor' np.int64(59)], Confidence: 0.05
+  Candidate: [5.263871320409396 2.640750196906721 nan 1.4330838350646387
+ 'Iris-versicolor' np.int64(59)], Confidence: 0.05
+  Candidate: [np.float64(5.2) np.float64(2.7) np.float64(nan) np.float64(1.4)
+ 'Iris-versicolor' np.int64(59)], Confidence: 0.5
+
+Error at row 47, col 2:
+  Candidate: [np.float64(4.6) np.float64(3.2) np.float64(1.4) np.float64(0.2)
+ 'Iris-setosa' np.int64(47)], Confidence: 0.4
+  Candidate: [4.649108471736505 3.278981190345588 nan 0.2161742661719384 'Iris-setosa'
+ np.int64(47)], Confidence: 0.05
+  Candidate: [4.706986801784071 3.367095487322361 nan 0.2825879123064516 'Iris-setosa'
+ np.int64(47)], Confidence: 0.05
+  Candidate: [np.float64(4.6) np.float64(3.2) np.float64(nan) np.float64(0.2)
+ 'Iris-setosa' np.int64(47)], Confidence: 0.5
+
+Error at row 14, col 3:
+  Candidate: [np.float64(5.8) np.float64(4.0) np.float64(1.2) np.float64(0.2)
+ 'Iris-setosa' np.int64(14)], Confidence: 0.4
+  Candidate: [5.844918756547157 4.052305816730508 1.2492411634494014 nan 'Iris-setosa'
+ np.int64(14)], Confidence: 0.05
+  Candidate: [5.883536080934451 4.1788511355025655 1.0413507253153764 nan 'Iris-setosa'
+ np.int64(14)], Confidence: 0.05
+  Candidate: [np.float64(5.8) np.float64(4.0) np.float64(1.2) np.float64(nan)
+ 'Iris-setosa' np.int64(14)], Confidence: 0.5
+
+Error at row 67, col 1:
+  Candidate: [np.float64(5.8) np.float64(2.7) np.float64(4.1) np.float64(1.0)
+ 'Iris-versicolor' np.int64(67)], Confidence: 0.4
+  Candidate: [5.785908546726513 nan 4.095007515622238 1.0155367402816549
+ 'Iris-versicolor' np.int64(67)], Confidence: 0.05
+  Candidate: [5.5683941321495185 nan 4.003700357917837 0.9300457163013369
+ 'Iris-versicolor' np.int64(67)], Confidence: 0.05
+  Candidate: [np.float64(5.8) np.float64(nan) np.float64(4.1) np.float64(1.0)
+ 'Iris-versicolor' np.int64(67)], Confidence: 0.5
+
+Error at row 26, col 2:
+  Candidate: [np.float64(5.0) np.float64(3.4) np.float64(1.6) np.float64(0.4)
+ 'Iris-setosa' np.int64(26)], Confidence: 0.4
+  Candidate: [5.0025799450721 3.410859198945695 nan 0.4203927840791192 'Iris-setosa'
+ np.int64(26)], Confidence: 0.05
+  Candidate: [4.862026203987052 3.3051752271135753 nan 0.32352423755241144
+ 'Iris-setosa' np.int64(26)], Confidence: 0.05
+  Candidate: [np.float64(5.0) np.float64(3.4) np.float64(nan) np.float64(0.4)
+ 'Iris-setosa' np.int64(26)], Confidence: 0.5
+
+Error at row 21, col 2:
+  Candidate: [np.float64(5.1) np.float64(3.7) np.float64(1.5) np.float64(0.4)
+ 'Iris-setosa' np.int64(21)], Confidence: 0.4
+  Candidate: [5.155430743984301 3.7098630392030936 nan 0.40535411667399923
+ 'Iris-setosa' np.int64(21)], Confidence: 0.05
+  Candidate: [5.14724856352791 3.805910286536561 nan 0.4534922808489461 'Iris-setosa'
+ np.int64(21)], Confidence: 0.05
+  Candidate: [np.float64(5.1) np.float64(3.7) np.float64(nan) np.float64(0.4)
+ 'Iris-setosa' np.int64(21)], Confidence: 0.5
+
+Error at row 25, col 2:
+  Candidate: [np.float64(5.0) np.float64(3.0) np.float64(1.6) np.float64(0.2)
+ 'Iris-setosa' np.int64(25)], Confidence: 0.4
+  Candidate: [5.025593396867759 2.9338735687068525 nan 0.15032379350654027
+ 'Iris-setosa' np.int64(25)], Confidence: 0.05
+  Candidate: [5.002435465475206 2.8033243067439058 nan 0.13865538904535385
+ 'Iris-setosa' np.int64(25)], Confidence: 0.05
+  Candidate: [np.float64(5.0) np.float64(3.0) np.float64(nan) np.float64(0.2)
+ 'Iris-setosa' np.int64(25)], Confidence: 0.5
+
+Error at row 137, col 3:
+  Candidate: [np.float64(6.4) np.float64(3.1) np.float64(5.5) np.float64(1.8)
+ 'Iris-virginica' np.int64(137)], Confidence: 0.4
+  Candidate: [6.476274252462736 3.108423048853391 5.4757716676896875 nan
+ 'Iris-virginica' np.int64(137)], Confidence: 0.05
+  Candidate: [6.365011066831406 3.1360782839510755 5.494872410015707 nan
+ 'Iris-virginica' np.int64(137)], Confidence: 0.05
+  Candidate: [np.float64(6.4) np.float64(3.1) np.float64(5.5) np.float64(nan)
+ 'Iris-virginica' np.int64(137)], Confidence: 0.5
+
+Error at row 148, col 0:
+  Candidate: [np.float64(6.2) np.float64(3.4) np.float64(5.4) np.float64(2.3)
+ 'Iris-virginica' np.int64(148)], Confidence: 0.4
+  Candidate: [nan 3.339369723462147 5.379559139721673 2.2430530853781243
+ 'Iris-virginica' np.int64(148)], Confidence: 0.05
+  Candidate: [nan 3.3894874512105817 5.458571100614996 2.099152752561949
+ 'Iris-virginica' np.int64(148)], Confidence: 0.05
+  Candidate: [np.float64(nan) np.float64(3.4) np.float64(5.4) np.float64(2.3)
+ 'Iris-virginica' np.int64(148)], Confidence: 0.5
+

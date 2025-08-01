@@ -1,0 +1,3 @@
+Row (np.int64(1), np.int64(2)): true_shap=0.0
+Row (np.int64(2), np.int64(0)): true_shap=0.0
+Row (np.int64(0), np.int64(0)): true_shap=0.0
